@@ -5,7 +5,7 @@
 - 리액트를 활용하여 ref, useState 활용, 파일 input, data 처리 등을 익힘.
 
 
-# <br> 글 추가, 수정, 삭제, 검색 기능을 구현
+# <br> 개발 일지
 <br>2022-03-08<br>
 
 ● first commit<br>
